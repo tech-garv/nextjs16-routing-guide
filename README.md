@@ -1,6 +1,6 @@
-v# 🚀 Next.js 16 App Router — Complete Routing Guide
+v# 🚀 Next.js App Router — Complete Routing Guide
 
-> Learn every essential **Next.js 16 App Router concept** in one place — from **Basic Routing** to **Dynamic**, **Nested**, and **Docs-style Catch-All Routing**.
+> Learn every essential **Next.js App Router concept** in one place — from **Basic Routing** to **Dynamic**, **Nested**, and **Docs-style Catch-All Routing**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-18.3-blue?style=for-the-badge&logo=react)
@@ -38,7 +38,7 @@ Understanding these patterns helps you build scalable apps such as:
 ---
 
 ## 🧩 Tech Stack
-- ⚡ **Next.js 16 (App Router)**
+- ⚡ **Next.js (App Router)**
 - ⚛️ **React 18**
 - 💙 **TypeScript**
 - 🎨 **Tailwind CSS** *(optional for styling)*
